@@ -1,1 +1,1 @@
-# n_queens_python
+# N - Queens Game
